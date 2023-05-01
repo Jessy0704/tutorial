@@ -1,2 +1,0 @@
-# tutorial
-To practice Github
